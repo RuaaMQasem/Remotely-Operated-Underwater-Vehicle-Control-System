@@ -8,11 +8,9 @@
 
 3.Mechanical & Electronics Design
 
-4.Output
-
 ## 1.Project Objective
 
-Design and build a remotely operated vehicle and the necessary sensors and tooling to tackle the realworld problems of plastics in our ocean, climate change’s impact on coral reefs, and the consequences of poor environmental practices by performing the following tasks: 
+Design and build a remotely operated vehicle to tackle the real world problems of plastics in our ocean, climate change’s impact on coral reefs, and the consequences of poor environmental practices by performing the following tasks: 
 
 1.Removing floating plastic debris from the surface
 
