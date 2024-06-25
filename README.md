@@ -8,6 +8,8 @@
 
 3.[Mechanical & Electronics Design](#mechanical-&-electronics-design)
 
+4.[My Contribution](#my-contribution)
+
 ## 1.Project Objective
 
 Design and build a remotely operated vehicle to tackle the real world problems of plastics in our ocean, climate change’s impact on coral reefs, and the consequences of poor environmental practices by performing the following tasks: 
@@ -45,3 +47,6 @@ Design and build a remotely operated vehicle to tackle the real world problems o
 ## 3.Mechanical & Electronics Design
 
 https://www.youtube.com/watch?v=hraFAhIfTfs
+
+## 4.My Contribution
+I was responsible for implementing the control system that involved managing I2C communication to receive speed and position data on an ATmega328P microcontroller. This information was then utilized to control a brushless T200 thruster and servo, enabling appropriate actions to be taken.
