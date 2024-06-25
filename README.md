@@ -46,9 +46,7 @@ Design and build a remotely operated vehicle to tackle the real world problems o
 
 ![code](https://github.com/RuaaMQasem/Remotely-Operated-Vehicle-Project/assets/142262095/5833a8ab-0a70-4e41-9567-2745e18dad1f)
 
-## Mechanical & Electronics Design
-
-https://www.youtube.com/watch?v=hraFAhIfTfs
+## [Mechanical & Electronics Design](https://www.youtube.com/watch?v=hraFAhIfTfs)
 
 ## My Contribution
 I was responsible for implementing the control system that involved managing I2C communication to receive speed and position data on an ATmega328P microcontroller. This information was then utilized to control a brushless T200 thruster and servo, enabling appropriate actions to be taken.
