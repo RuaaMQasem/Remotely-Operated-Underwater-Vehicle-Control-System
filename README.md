@@ -39,9 +39,11 @@ Design and build a remotely operated vehicle to tackle the real world problems o
 ## 2.Project Architecture
 
 ### System Architecture
+
 ![system](https://github.com/RuaaMQasem/Remotely-Operated-Vehicle-Project/assets/142262095/4f7c9d49-2436-4cb3-8547-b39efdbf683e)
 
-### Software Architecture
+### Software Architecture of Control System
+
 ![code](https://github.com/RuaaMQasem/Remotely-Operated-Vehicle-Project/assets/142262095/5833a8ab-0a70-4e41-9567-2745e18dad1f)
 
 ## 3.Mechanical & Electronics Design
