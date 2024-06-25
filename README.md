@@ -1,4 +1,4 @@
-# Remotely-Operated-Vehicle-Project
+# Remotely-Operated-Underwater-Vehicle-Project
 ![Rov](https://github.com/RuaaMQasem/Remotely-Operated-Vehicle-Project/assets/142262095/2eb4e201-507b-467b-abb9-14ded50b9288)
 ## Table of Contents
 
