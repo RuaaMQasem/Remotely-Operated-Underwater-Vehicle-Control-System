@@ -10,7 +10,7 @@
 
 4.[My Contribution](#my-contribution)
 
-## 1.Project Objective
+## Project Objective
 
 Design and build a remotely operated vehicle to tackle the real world problems of plastics in our ocean, climate change’s impact on coral reefs, and the consequences of poor environmental practices by performing the following tasks: 
 
@@ -34,9 +34,9 @@ Design and build a remotely operated vehicle to tackle the real world problems o
 
 10.Removing a trap full of eels from a designated area and Placing an empty eel trap in a designated area
 
-11. Creating a photomosaic of a subway car submerged to create an artificial reef
+11.Creating a photomosaic of a subway car submerged to create an artificial reef
 
-## 2.Project Architecture
+## Project Architecture
 
 ### System Architecture
 
@@ -46,9 +46,9 @@ Design and build a remotely operated vehicle to tackle the real world problems o
 
 ![code](https://github.com/RuaaMQasem/Remotely-Operated-Vehicle-Project/assets/142262095/5833a8ab-0a70-4e41-9567-2745e18dad1f)
 
-## 3.Mechanical & Electronics Design
+## Mechanical & Electronics Design
 
 https://www.youtube.com/watch?v=hraFAhIfTfs
 
-## 4.My Contribution
+## My Contribution
 I was responsible for implementing the control system that involved managing I2C communication to receive speed and position data on an ATmega328P microcontroller. This information was then utilized to control a brushless T200 thruster and servo, enabling appropriate actions to be taken.
