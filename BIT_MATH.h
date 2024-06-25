@@ -1,8 +1,5 @@
 /*
  * BIT_MATH.h
- *
- * Created: 4/10/2021 11:44:49 AM
- *  Author: Laptop Market
  */ 
 
 
