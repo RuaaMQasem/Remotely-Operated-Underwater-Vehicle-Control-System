@@ -2,39 +2,39 @@
 ![Rov](https://github.com/RuaaMQasem/Remotely-Operated-Vehicle-Project/assets/142262095/2eb4e201-507b-467b-abb9-14ded50b9288)
 ## Table of Contents
 
-1.[Project Objective](#project-objective)
+1. [Project Objective](#project-objective)
 
-2.[Project Architecture](#project-architecture)
+2. [Project Architecture](#project-architecture)
 
-3.[Mechanical & Electronics Design](#mechanical-&-electronics-design)
+3. [Mechanical & Electronics Design](#mechanical-&-electronics-design)
 
-4.[My Contribution](#my-contribution)
+4. [My Contribution](#my-contribution)
 
 ## Project Objective
 
 Design and build a remotely operated vehicle to tackle the real world problems of plastics in our ocean, climate change’s impact on coral reefs, and the consequences of poor environmental practices by performing the following tasks: 
 
-1.Removing floating plastic debris from the surface
+1. Removing floating plastic debris from the surface
 
-2.Removing a ghost net from midwater
+2. Removing a ghost net from midwater
 
-3.Flying a transect line over a coral reef and mapping points of interest
+3. Flying a transect line over a coral reef and mapping points of interest
 
-4.Using image recognition to determine the health of a coral colony by comparing its current condition to past data
+4. Using image recognition to determine the health of a coral colony by comparing its current condition to past data
 
-5.Propagating corals on the reef
+5. Propagating corals on the reef
 
-6.Culling an outbreak of Crown of Thorn sea stars
+6. Culling an outbreak of Crown of Thorn sea stars
 
-7.Collecting samples of sponge species for pharmaceutical research
+7. Collecting samples of sponge species for pharmaceutical research
 
-8.Retrieving a sediment sample from inside a drain pipe to analyze for contaminants 
+8. Retrieving a sediment sample from inside a drain pipe to analyze for contaminants 
 
-9.Estimating the number of mussels in a mussel bed
+9. Estimating the number of mussels in a mussel bed
 
-10.Removing a trap full of eels from a designated area and Placing an empty eel trap in a designated area
+10. Removing a trap full of eels from a designated area and Placing an empty eel trap in a designated area
 
-11.Creating a photomosaic of a subway car submerged to create an artificial reef
+11. Creating a photomosaic of a subway car submerged to create an artificial reef
 
 ## Project Architecture
 
